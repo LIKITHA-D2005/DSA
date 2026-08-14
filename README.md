@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/LIKITHA-D2005/DSA/tree/master/0015-3sum) |
+| [0141-linked-list-cycle](https://github.com/LIKITHA-D2005/DSA/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
 | ------- |
@@ -38,9 +39,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/LIKITHA-D2005/DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/LIKITHA-D2005/DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/LIKITHA-D2005/DSA/tree/master/0206-reverse-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/LIKITHA-D2005/DSA/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/LIKITHA-D2005/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
